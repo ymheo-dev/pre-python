@@ -9,11 +9,12 @@
 #### 1. 회원가입을 아직 하지 않은 분들은 회원가입을 먼저 해주세요. 
 
 #### 2. 회원가입을 하셨으면, 상단에 'Fork' 를 클릭해주세요. 
-Fork를 하면 해당 repo를 자신의 계정으로 가져갈 수 있습니다. 
-![Menu](images/menu.jpg)
+![Fork](images/fork.jpg)
 
-
-#### 3. 자신의 깃헙 계정으로 가면 fork된 과제를 확인할 수 있습니다. 
+#### 3. fork된 과제를 확인하세요. 
+'Fork' 버튼을 클릭하면 아래처럼 facebook 등 타자가 소유한 repo를 내 계정으로 가져올 수 있습니다. 
+![Pending](images/pending.jpg)
+![Start](images/start.jpg)
 
 #### 4. clone or download 버튼을 누르고 주소를 복사합니다. 
 
