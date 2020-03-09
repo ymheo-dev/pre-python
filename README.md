@@ -17,7 +17,8 @@
 <br/>
 
 #### 4. 이제 프로젝트를 내 로컬환경으로 clone하겠습니다.
-#### clone or download 버튼을 누르고 주소를 복사합니다. 
+'clone or download' 버튼을 클릭하고 주소를 복사합니다. 
+
 ![Clone](images/cloning.jpg)
 <br/>
 
@@ -31,7 +32,9 @@
 
 바탕화면으로 이동
 cd Desktop/
+![Desktop](images/desktop.jpg)
 <br/>
+
 
 바탕화면에 폴더 만들기
 mkdir playdata
