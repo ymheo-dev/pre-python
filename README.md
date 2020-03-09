@@ -17,8 +17,8 @@
 <br/>
 
 #### 4. 이제 프로젝트를 내 로컬환경으로 clone하겠습니다.
-### clone or download 버튼을 누르고 주소를 복사합니다. 
-![Clone](images/clone.jpg)
+#### clone or download 버튼을 누르고 주소를 복사합니다. 
+![Clone](images/cloning.jpg)
 <br/>
 
 #### 5. 로컬 환경으로 돌아가 terminal(git bash 등)을 킵니다. 
