@@ -7,24 +7,24 @@
 # [과제 가져오기] 
 
 #### 1. 회원가입을 아직 하지 않은 분들은 회원가입을 먼저 해주세요. 
-
+<br/>
 #### 2. 우측상단의 'Fork' 버튼을 클릭해주세요. 
 ![Fork](images/fork.jpg)
-<br/>
+<br/><br/>
 
 #### 3. 'Fork' 버튼을 클릭하면 타자가 소유한 repo를 내 계정으로 가져올 수 있습니다. 
 ![Start](images/start.jpg)
-<br/>
+<br/><br/>
 
 #### 4. 이제 프로젝트를 내 로컬환경으로 clone하겠습니다.
 'clone or download' 버튼을 클릭하고 주소를 복사합니다. 
 
 ![Clone](images/cloning.jpg)
-<br/>
+<br/><br/>
 
 #### 5. 로컬 환경으로 돌아가 terminal(git bash 등)을 킵니다. 
 ![Open](images/open.jpg)
-<br/>
+<br/><br/>
 
 #### 6. terminal에서 명렬어를 이용해 바탕화면에 폴더를 생성하고 폴더에 파일을 clone합니다.
 
@@ -56,18 +56,18 @@ cd (폴더명)<br/>
 code .<br/>
 
 ![Terminal_1](images/terminal_1.jpg)
-<br/>
+<br/><br/>
 
 
 #### 7. 이제 pycharm을 실행해 문제를 확인하고 과제를 해결합니다. 
+<br/><br/>
 
+# [commit하기] 
 
-# 2. commit하기 
-
-#### 1. 문제를 풀던 중 현재 상황을 저장해보겠습니다. 
-우선 터미널을 열고 아래 명령어를 입력하세요. 
-git status
-<br/>
+#### 1. 10번까지 문제를 풀고 현재 상황을 저장해보겠습니다. 
+터미널에 아래 명령어를 입력하세요. <br/>
+git status<br/>
+<br/><br/>
 
 
 #### 2. git status를 입력하면 변경된 사항들을 확인할 수 있습니다. 
@@ -77,10 +77,10 @@ git add <file name>
   <br/>
 
 #### 4. 커밋하기 
-git commit -m "전달하고 싶은 메시지" 
+git commit -m "전달하고 싶은 메시지" <br/>
 <br/>
 
-이런식으로 문제를 하나씩 풀때마다 커밋을 통해 변경된 사항을 저장해주세요. 
+이런식으로 문제를 하나씩 풀때마다 커밋을 통해 변경된 사항을 저장해주세요. <br/>
 <br/>
 
 # 3. 최종 제출하기 
