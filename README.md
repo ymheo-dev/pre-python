@@ -24,7 +24,7 @@
 <br/><br/>
 
 #### 5. 로컬 환경으로 돌아가 terminal(git bash 등)을 킵니다. 
-![Open](images/open.jpg)
+![Gitbash](images/bash.jpg)
 <br/><br/>
 
 #### 6. terminal에서 명렬어를 이용해 바탕화면에 폴더를 생성하고 폴더에 파일을 clone합니다.
