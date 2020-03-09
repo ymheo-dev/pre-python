@@ -8,13 +8,15 @@
 
 #### 1. 회원가입을 아직 하지 않은 분들은 회원가입을 먼저 해주세요. 
 
-#### 2. 회원가입을 하셨으면, 상단에 'Fork' 를 클릭해주세요. 
+#### 2. 상단메뉴 중 'Fork' 탭을 클릭해주세요. 
 ![Fork](images/fork.jpg)
+<br/>
 
 #### 3. fork된 과제를 확인하세요. 
 'Fork' 버튼을 클릭하면 아래처럼 facebook 등 타자가 소유한 repo를 내 계정으로 가져올 수 있습니다. 
 ![Pending](images/pending.jpg)
 ![Start](images/start.jpg)
+<br/>
 
 #### 4. clone or download 버튼을 누르고 주소를 복사합니다. 
 
