@@ -30,9 +30,7 @@
 
 바탕화면으로 이동<br/>
 cd Desktop/<br/>
-![Desktop](images/desktop.jpg)
 <br/>
-
 
 바탕화면에 폴더 만들기<br/>
 mkdir playdata<br/>
@@ -56,6 +54,10 @@ cd (폴더명)<br/>
 
 에디터 실행하기<br/>
 code .<br/>
+
+![Terminal_1](images/terminal_1.jpg)
+<br/>
+
 
 #### 7. 이제 pycharm을 실행해 문제를 확인하고 과제를 해결합니다. 
 
